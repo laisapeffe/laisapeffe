@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá! Eu sou a Laisa Peffe
 
-<!--
-**laisapeffe/laisapeffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cientista e Analista de Dados
 
-Here are some ideas to get you started:
+Aqui no meu GitHub, você encontrará meus projetos de portfólio, estudos e soluções voltadas para o universo de análise de dados, machine learning e inteligência de negócios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades e Ferramentas
+
+**Linguagens & Bibliotecas:**
+* Python (Pandas, NumPy, Scikit-Learn)
+* SQL
+
+**Visualização de Dados & BI:**
+* Power BI
+* Matplotlib / Seaborn / Plotly
+
+**Bancos de Dados:**
+* PostgreSQL / MySQL / SQL Server
+* MongoDB
+
+## Projetos
+
+* **[Machine Learning para analises de lutas do UFC](https://github.com/laisapeffe/Dados-de-lutas-do-UFC)**
+* **[Análise do uso de smartphone](https://github.com/laisapeffe/mvp-analise-smartphones)** 
+
+## Vamos nos conectar!
+
+* **LinkedIn:** [Laisa Peffe](https://www.linkedin.com/in/laisa-peffe/)
+* **E-mail:** laisapeffe@gmaail.com
